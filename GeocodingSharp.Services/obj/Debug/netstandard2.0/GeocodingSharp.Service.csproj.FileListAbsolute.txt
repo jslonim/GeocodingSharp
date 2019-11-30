@@ -5,3 +5,10 @@ C:\Users\Casa\Desktop\GeocodingAPI\OMSNIC.Geocoding.Services\bin\Debug\netstanda
 C:\Users\Casa\Desktop\GeocodingAPI\OMSNIC.Geocoding.Services\bin\Debug\netstandard2.0\GeocodingSharp.Service.pdb
 C:\Users\Casa\Desktop\GeocodingAPI\OMSNIC.Geocoding.Services\obj\Debug\netstandard2.0\GeocodingSharp.Service.dll
 C:\Users\Casa\Desktop\GeocodingAPI\OMSNIC.Geocoding.Services\obj\Debug\netstandard2.0\GeocodingSharp.Service.pdb
+C:\Users\Casa\Desktop\GeocodingSharp\GeocodingSharp.Services\bin\Debug\netstandard2.0\GeocodingSharp.Service.deps.json
+C:\Users\Casa\Desktop\GeocodingSharp\GeocodingSharp.Services\bin\Debug\netstandard2.0\GeocodingSharp.Service.dll
+C:\Users\Casa\Desktop\GeocodingSharp\GeocodingSharp.Services\bin\Debug\netstandard2.0\GeocodingSharp.Service.pdb
+C:\Users\Casa\Desktop\GeocodingSharp\GeocodingSharp.Services\obj\Debug\netstandard2.0\GeocodingSharp.Service.AssemblyInfoInputs.cache
+C:\Users\Casa\Desktop\GeocodingSharp\GeocodingSharp.Services\obj\Debug\netstandard2.0\GeocodingSharp.Service.AssemblyInfo.cs
+C:\Users\Casa\Desktop\GeocodingSharp\GeocodingSharp.Services\obj\Debug\netstandard2.0\GeocodingSharp.Service.dll
+C:\Users\Casa\Desktop\GeocodingSharp\GeocodingSharp.Services\obj\Debug\netstandard2.0\GeocodingSharp.Service.pdb

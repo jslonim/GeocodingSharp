@@ -8,7 +8,10 @@ using System.Threading.Tasks;
 namespace GeocodingSharp.Geocoding.Service.Services
 {
     public class BaseService
-    {       
+    {
+        /// <summary>
+        /// Generic async method to hit endpoint
+        /// </summary>
         protected async Task<T> GetAsync<T>(string url)
         {
             using (var httpClient = new HttpClient())

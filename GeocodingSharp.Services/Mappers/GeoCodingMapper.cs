@@ -8,6 +8,9 @@ namespace GeocodingSharp.Service.Mappers
 {
     public static class GeoCodingMapper
     {
+        /// <summary>
+        /// Converts the google API response into a DTO with State,County and City.
+        /// </summary>
         public static LocationByZipcodeResponse GetByZipcodeMapper(GeoCodingByZipcodeResponse origin) 
         {
             LocationByZipcodeResponse target = new LocationByZipcodeResponse();

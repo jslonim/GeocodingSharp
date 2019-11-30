@@ -9,6 +9,9 @@ namespace GeocodingSharp.Service.Helpers
 {
     static class XMLHelper
     {
+        /// <summary>
+        /// Converts any JSON to XML
+        /// </summary>
         public static string SerializeToXML<T>(T dto)
         {
             XmlSerializer xsSubmit = new XmlSerializer(typeof(T));

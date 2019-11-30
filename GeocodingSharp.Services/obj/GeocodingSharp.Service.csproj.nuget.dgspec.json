@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Casa\\Desktop\\GeocodingAPI\\GeocodingSharp.Services\\GeocodingSharp.Service.csproj": {}
+    "C:\\Users\\Casa\\Desktop\\GeocodingSharp\\GeocodingSharp.Services\\GeocodingSharp.Service.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Casa\\Desktop\\GeocodingAPI\\GeocodingSharp.Services\\GeocodingSharp.Service.csproj": {
+    "C:\\Users\\Casa\\Desktop\\GeocodingSharp\\GeocodingSharp.Services\\GeocodingSharp.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Casa\\Desktop\\GeocodingAPI\\GeocodingSharp.Services\\GeocodingSharp.Service.csproj",
+        "projectUniqueName": "C:\\Users\\Casa\\Desktop\\GeocodingSharp\\GeocodingSharp.Services\\GeocodingSharp.Service.csproj",
         "projectName": "GeocodingSharp.Service",
-        "projectPath": "C:\\Users\\Casa\\Desktop\\GeocodingAPI\\GeocodingSharp.Services\\GeocodingSharp.Service.csproj",
+        "projectPath": "C:\\Users\\Casa\\Desktop\\GeocodingSharp\\GeocodingSharp.Services\\GeocodingSharp.Service.csproj",
         "packagesPath": "C:\\Users\\Casa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Casa\\Desktop\\GeocodingAPI\\GeocodingSharp.Services\\obj\\",
+        "outputPath": "C:\\Users\\Casa\\Desktop\\GeocodingSharp\\GeocodingSharp.Services\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Casa\\AppData\\Roaming\\NuGet\\NuGet.Config",
