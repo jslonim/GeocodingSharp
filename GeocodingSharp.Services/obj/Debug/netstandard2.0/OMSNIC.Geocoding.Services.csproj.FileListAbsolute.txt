@@ -1,0 +1,8 @@
+D:\Work\IntegrationServices\OMSNIC.Geocoding.API\OMSNIC.Geocoding.Services\bin\Debug\netstandard2.0\OMSNIC.Geocoding.Services.deps.json
+D:\Work\IntegrationServices\OMSNIC.Geocoding.API\OMSNIC.Geocoding.Services\bin\Debug\netstandard2.0\OMSNIC.Geocoding.Services.dll
+D:\Work\IntegrationServices\OMSNIC.Geocoding.API\OMSNIC.Geocoding.Services\bin\Debug\netstandard2.0\OMSNIC.Geocoding.Services.pdb
+D:\Work\IntegrationServices\OMSNIC.Geocoding.API\OMSNIC.Geocoding.Services\obj\Debug\netstandard2.0\OMSNIC.Geocoding.Services.AssemblyInfoInputs.cache
+D:\Work\IntegrationServices\OMSNIC.Geocoding.API\OMSNIC.Geocoding.Services\obj\Debug\netstandard2.0\OMSNIC.Geocoding.Services.AssemblyInfo.cs
+D:\Work\IntegrationServices\OMSNIC.Geocoding.API\OMSNIC.Geocoding.Services\obj\Debug\netstandard2.0\OMSNIC.Geocoding.Services.dll
+D:\Work\IntegrationServices\OMSNIC.Geocoding.API\OMSNIC.Geocoding.Services\obj\Debug\netstandard2.0\OMSNIC.Geocoding.Services.pdb
+D:\Work\IntegrationServices\OMSNIC.Geocoding.API\OMSNIC.Geocoding.Services\obj\Debug\netstandard2.0\OMSNIC.Geocoding.Services.csprojAssemblyReference.cache
