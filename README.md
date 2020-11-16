@@ -4,5 +4,5 @@ Its a library made in .NET Standard that allows you to do a request to the Geoco
 
 Also ready for adding Google enpoints with minimal effort.
 
-Useful for a lot of projects from work.
+Useful for a lot of projects.
 
